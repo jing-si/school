@@ -10,7 +10,7 @@
  
    author   : ê³µíµìë¹ì¤ ê°ë°í ì´ì¼ì­
    since    : 2009.03.26
-   왜 글자 다 깨졌냐 다시 한번 최종 수정    
+   왜 글자 다 깨졌냐 다시 한번 최종 수정       
 --%>
 
 <%@ page language="java" contentType="application/javascript" %>
